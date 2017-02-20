@@ -1,0 +1,1 @@
+The java.util.Currency.getInstance() method returns a currency identifier (eg GBP) for a specified currency code.
